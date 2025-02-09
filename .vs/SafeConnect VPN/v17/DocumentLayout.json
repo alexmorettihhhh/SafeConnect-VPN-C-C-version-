@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\vpn_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\vpn_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\logger.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\utils\\logger.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\utils\\logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\docs\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\docs\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\src\\vpn-server\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SafeConnect VPN\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "monitoring.h",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.h",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.h",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.h",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T14:22:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vpn_manager.h",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.h",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\vpn_manager.h",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.h",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\vpn_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T14:22:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\docs\\README.md",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\docs\\README.md",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\docs\\README.md",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\docs\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-09T14:21:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config_manager.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:20:49.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "logger.h",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\logger.h",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\utils\\logger.h",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\logger.h",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\utils\\logger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T14:19:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "logger.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\logger.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\utils\\logger.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\logger.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\utils\\logger.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:19:18.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "traffic_analyzer.h",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.h",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.h",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.h",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T14:18:22.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "websocket_manager.h",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.h",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.h",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.h",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T14:19:06.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config_manager.h",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.h",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.h",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.h",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\utils\\config_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T14:19:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "monitoring.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring\\monitoring.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:18:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vpn_manager.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\vpn_manager.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\vpn_manager.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:20:14.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-09T14:20:57.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "traffic_analyzer.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\traffic_analyzer.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:20:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\CMakeLists.txt",
+              "RelativeToolTip": "SafeConnect VPN\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-09T14:17:27.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "websocket_manager.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\websocket\\websocket_manager.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:19:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\main.c",
+              "RelativeDocumentMoniker": "SafeConnect VPN\\src\\vpn-server\\main.c",
+              "ToolTip": "C:\\Users\\vovan\\source\\repos\\SafeConnect VPN\\SafeConnect VPN\\src\\vpn-server\\main.c",
+              "RelativeToolTip": "SafeConnect VPN\\src\\vpn-server\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-09T14:17:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
+              "DocumentMoniker": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
+              "ToolTip": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-09T14:16:09.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-debug",
+      "out\\install\\x64-debug",
+      "out\\build\\x64-release",
+      "out\\install\\x64-release",
+      "out\\build\\x86-debug",
+      "out\\install\\x86-debug",
+      "out\\build\\x86-release",
+      "out\\install\\x86-release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\SafeConnect VPN",
+    "\\SafeConnect VPN\\src",
+    "\\SafeConnect VPN\\src\\vpn-server",
+    "\\SafeConnect VPN\\src\\vpn-server\\docs",
+    "\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis",
+    "\\SafeConnect VPN\\src\\vpn-server\\traffic-analysis\\monitoring",
+    "\\SafeConnect VPN\\src\\vpn-server\\utils",
+    "\\SafeConnect VPN\\src\\vpn-server\\websocket"
+  ],
+  "SelectedNode": "\\SafeConnect VPN\\src\\vpn-server\\vpn_manager.h",
+  "PreviewInSolutionExplorer": false
+}

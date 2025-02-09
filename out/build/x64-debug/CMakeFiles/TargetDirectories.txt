@@ -1,0 +1,5 @@
+C:/Users/vovan/source/repos/SafeConnect VPN/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/vovan/source/repos/SafeConnect VPN/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vovan/source/repos/SafeConnect VPN/out/build/x64-debug/SafeConnect VPN/CMakeFiles/CMakeTarget.dir
+C:/Users/vovan/source/repos/SafeConnect VPN/out/build/x64-debug/SafeConnect VPN/CMakeFiles/edit_cache.dir
+C:/Users/vovan/source/repos/SafeConnect VPN/out/build/x64-debug/SafeConnect VPN/CMakeFiles/rebuild_cache.dir
